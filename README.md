@@ -9,7 +9,7 @@
 <div style="display: inline_block"  >
 <p> - :computer: Desenvolvedor desde 2019</p>
 <p> - 📚 Estudante de Ciência da Computação, atualmente no 3° semestre. </p>
-<p> - 🎯 Conhecimento em: Javascript, Typescript, NodeJS, MySQL, ReactJS, HTML/CSS, Python e C </p>   
+<p> - 🎯 Conhecimento em: Javascript, Typescript, NodeJS, MySQL, ReactJS, HTML/CSS, PHP, Python e C </p>   
   
 ### Redes sociais
 <p align="center">
