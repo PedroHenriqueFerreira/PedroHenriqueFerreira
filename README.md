@@ -8,8 +8,8 @@
 ### Sobre mim
 <div style="display: inline_block"  >
 <p> - :computer: Desenvolvedor desde 2019</p>
-<p> - 📚 Estudante de Ciência da Computação, atualmente no 5° semestre. </p>
-<p> - 🎯 Conhecimento em: Javascript, Typescript, NodeJS, MySQL, ReactJS, HTML/CSS, PHP, Python e C </p>   
+<p> - 📚 Estudante de Ciência da Computação, atualmente no 6° semestre. </p>
+<p> - 🎯 Conhecimento em: Javascript, Typescript, ReactJS, NodeJS, MySQL, PostgreSQL, MongoDB, HTML/CSS, PHP, C, C++, Haskell, Elixir e Python </p>   
   
 ### Redes sociais
 <p align="center">
