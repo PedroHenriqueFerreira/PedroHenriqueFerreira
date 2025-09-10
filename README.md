@@ -8,7 +8,7 @@
 ### Sobre mim
 <div style="display: inline_block"  >
 <p> - :computer: Desenvolvedor desde 2019. </p>
-<p> - 📚 Estudante de Ciência da Computação, atualmente no 6° semestre. </p>
+<p> - 📚 Estudante de Ciência da Computação, atualmente no 8° semestre. </p>
 <p> - 🎯 Conhecimento em: C, C++, Java, Javascript, Typescript, PHP, Haskell, Elixir, Python e entre outras linguagens e tecnologias. </p>   
   
 ### Redes sociais
