@@ -22,7 +22,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="mailto:pedrohferreira@ime.usp.br" target="_blank">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:HPedro09062004@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pedrohferreira@ime.usp.br">
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/pedrohferreira0" target="_blank">
