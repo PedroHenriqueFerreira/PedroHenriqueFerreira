@@ -4,7 +4,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=A98AF0&center=true&vCenter=true&width=500&lines=Building+intelligent+systems;Exploring+Deep+Learning+%26+Computer+Vision;Researching+%C3%97+Engineering" alt="Typing animation"/>
 </div>
 
-### Olá! Meu nome é Pedro H. Ferreira
 <div align="center">
 <a href="https://github.com/PedroHenriqueFerreira">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueFerreira&layout=compact&langs_count=7&theme=dracula"/>
