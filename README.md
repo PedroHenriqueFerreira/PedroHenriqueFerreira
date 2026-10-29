@@ -1,4 +1,4 @@
-### Olá! Meu nome é Pedro Ferreira
+### Olá! Meu nome é Pedro H. Ferreira
 <div align="center">
 <a href="https://github.com/PedroHenriqueFerreira">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueFerreira&layout=compact&langs_count=7&theme=dracula"/>
