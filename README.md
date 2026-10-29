@@ -1,6 +1,8 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Pedro%20H.%20Ferreira&fontSize=50&fontColor=A98AF0&animation=fadeIn&fontAlignY=50&desc=Computer%20Science%20%7C%20Machine%20Learning%20%7C%20Research&descSize=14&descColor=C9D1D9&descAlignY=75" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=A98AF0&center=true&vCenter=true&width=500&lines=Building+intelligent+systems;Exploring+Deep+Learning+%26+Computer+Vision;Researching+%C3%97+Engineering" alt="Typing animation"/>
+</div>
 
 ### Olá! Meu nome é Pedro H. Ferreira
 <div align="center">
